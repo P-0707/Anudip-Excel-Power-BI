@@ -1,3 +1,3 @@
-# Anudip-Execel-Power-BI
+# Anudip-Excel-Power-BI
 
 Excel sheets and Power bi reports
